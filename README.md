@@ -26,10 +26,10 @@ ipkcpc -h <host> -p <port> -m <mode>
 where `host` is the IPv4 address of the server, `port` the server port, and `mode` either tcp or udp (e.g., `ipkcpc -h 1.2.3.4 -p 2023 -m udp`).
 
 **Examples**
-![1 example](http://url/to/img.png)
-![2 example](http://url/to/img.png)
-![3 example](http://url/to/img.png)
-![4 example](http://url/to/img.png)
+![1 example](https://github.com/rr3333mmAA/ipk-project1/blob/main/images/tcp_ex0.png)
+![2 example](https://github.com/rr3333mmAA/ipk-project1/blob/main/images/tcp_ex1.png)
+![3 example](https://github.com/rr3333mmAA/ipk-project1/blob/main/images/udp_ex0.png)
+![4 example](https://github.com/rr3333mmAA/ipk-project1/blob/main/images/udp_ex1.png)
 
 
 ## License
